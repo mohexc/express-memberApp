@@ -1,4 +1,4 @@
-const members = [
+let members = [
   {
     id: 1,
     name: "John Doe",
